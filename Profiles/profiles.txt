@@ -6,23 +6,23 @@ DEVELOPER ORG USERNAME :
 DEVELOPER ORG PASSWORD : Gayatri@123
 POSITION : Team Leader
 
-NAME OF THE STUDENT : VALLIGATLA SIREESHA
-lEARNING TRACK : Developer
-PROJECT NAME : Retail Management Application Using Salesforce - (DEV)
-TRAILHEAD PROFILE : https://www.salesforce.com/trailblazer/sireeshavalligatla
-DEVELOPER ORG USERNAME : valligatlasireesha@gdcproject.com
+NAME OF THE STUDENT : PALAGANI MADHUBALA
+lEARNING TRACK : Admin
+PROJECT NAME : Garage-Management-System
+TRAILHEAD PROFILE : https://www.salesforce.com/trailblazer/utwyjrm8fwa83dfs9o
+DEVELOPER ORG USERNAME : 
 DEVELOPER ORG PASSWORD : Gayatri@123
 POSITION : Team Member
 
-NAME OF THE STUDENT : VADDAMANI SUNITHA
-lEARNING TRACK : Developer
-PROJECT NAME : Retail Management Application Using Salesforce - (DEV)
-TRAILHEAD PROFILE : https://www.salesforce.com/trailblazer/sunithavaddamani
-DEVELOPER ORG USERNAME : sunithavaddamani@gdcproject.com
+NAME OF THE STUDENT : MIDDINTI VYSHNAVI
+lEARNING TRACK : Admin
+PROJECT NAME : Garage-Management-System
+TRAILHEAD PROFILE : 
+DEVELOPER ORG USERNAME : 
 DEVELOPER ORG PASSWORD : Gayatri@123
 POSITION : Team Member
 
-NAME OF THE STUDENT : PANDITI REVATHI
+NAME OF THE STUDENT : 
 lEARNING TRACK : Developer
 PROJECT NAME : Retail Management Application Using Salesforce - (DEV)
 TRAILHEAD PROFILE : https://www.salesforce.com/trailblazer/revathipanditi
