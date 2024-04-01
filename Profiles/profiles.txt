@@ -22,13 +22,10 @@ DEVELOPER ORG USERNAME :
 DEVELOPER ORG PASSWORD : Gayatri@123
 POSITION : Team Member
 
-NAME OF THE STUDENT : 
+NAME OF THE STUDENT : BALSAL PRAVALLIKA
 lEARNING TRACK : Developer
-PROJECT NAME : Retail Management Application Using Salesforce - (DEV)
-TRAILHEAD PROFILE : https://www.salesforce.com/trailblazer/revathipanditi
-DEVELOPER ORG USERNAME : panditirevathi7@gdcproject.com
+PROJECT NAME : Garage-Management-System
+TRAILHEAD PROFILE : https://www.salesforce.com/trailblazer/pravallikabalsal
+DEVELOPER ORG USERNAME : balsalpravallika@gdcproject.com
 DEVELOPER ORG PASSWORD : Gayatri@123
 POSITION : Team Member
-DEVELOPER ORG USERNAME : sadamgayatri5@gdcproject.com
-DEVELOPER ORG PASSWORD : Gayatri@123
-POSITION : Team member
