@@ -2,7 +2,7 @@ NAME OF THE STUDENT : KALAVAKUNTA VISHNUPRIYA
 lEARNING TRACK : Administrator
 PROJECT NAME : Garage-Management-System
 TRAILHEAD PROFILE : https://www.salesforce.com/trailblazer/xnc92z14r0g3xmzqk8
-DEVELOPER ORG USERNAME : 
+DEVELOPER ORG USERNAME : priya@gdcproject.com
 DEVELOPER ORG PASSWORD : Gayatri@123
 POSITION : Team Leader
 
@@ -18,8 +18,8 @@ NAME OF THE STUDENT : MIDDINTI VYSHNAVI
 lEARNING TRACK : Administrator
 PROJECT NAME : Garage-Management-System
 TRAILHEAD PROFILE : https://www.salesforce.com/trailblazer/mv9ugi9mv4u5ailaws
-DEVELOPER ORG USERNAME : 
-DEVELOPER ORG PASSWORD : Gayatri@123
+DEVELOPER ORG USERNAME : vaishnavi@gdcproject.com
+DEVELOPER ORG PASSWORD : gayatri@123
 POSITION : Team Member
 
 NAME OF THE STUDENT : BALSAL PRAVALLIKA
